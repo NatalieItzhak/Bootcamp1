@@ -1,0 +1,16 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "natalie itzhak",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.5.0",
+    "prompt": "^1.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "description": "quiz program"
+}
